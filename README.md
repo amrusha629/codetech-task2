@@ -5,16 +5,9 @@ Domain:Python programming
 Duration:Aug to Sep 2024 
 Mentor:NEELA SANTHOSH KUMAR
 
-Over view of the project
--------------------------
-Project:grade calculator
+OVERVIEW OF THE PROJECT Project: student grade tracker 
 
-User must enter 5 different values and store it in separate variables.
-2. Then sum up all the five marks and divide by 5 to find the average of the marks.
-3. If the average is greater than 90, “Grade: A” is printed.
-4. If the average is in between 80 and 90, “Grade: B” is printed.
-5. If the average is in between 70 and 80, “Grade: C” is printed.
-6. If the average is in between 60 and 70, “Grade: D” is printed.
-7. If the average is anything below 60, “Grade: F” is printed.
+OBJECTIVE: Objective of the Project: The objective of this project is to create a simple grading system where a user inputs the marks for five subjects, and the program calculates the average and determines the corresponding grade based on predefined thresholds. Outcome: The outcome is a program that can assist teachers or students in quickly calculating grades based on the average marks.
+Key Activities of the Project: Input Collection: Collect marks from the user for five different subjects. Average Calculation: Compute the average of the collected marks. Grade Determination: Compare the average against defined grade thresholds and determine the corresponding grade. Output Display: Display the determined grade to the user. Testing & Debugging: Ensure that the program handles various inputs correctly and provides accurate results. Enhancements: Potential future activities could include adding more subjects, handling different grading scales, or allowing input validation.
 
 ![Screenshot (39)](https://github.com/user-attachments/assets/d2631299-6e9f-4ba3-84d6-6d504fca5ce4)
